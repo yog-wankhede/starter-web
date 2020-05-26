@@ -10,11 +10,11 @@ This is example to show different parts of the Git repository and various comman
 
 ## How To Contribute
 
-This is simple web project.
+This is simple web project. Sample text Sample text Sample text Sample text Sample text 
 
 ## Deployment
 
-This is simple web project deployment.
+This is simple web project deployment. 
 
 ## Copyright
 
