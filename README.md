@@ -15,3 +15,7 @@ This is simple web project.
 ## Deployment
 
 This is simple web project deployment.
+
+## Copyright
+
+Copyrigth 2020
