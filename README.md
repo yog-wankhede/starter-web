@@ -18,4 +18,4 @@ This is simple web project deployment.
 
 ## Copyright
 
-Copyrigth 2020
+Copyrigth YP 2020
